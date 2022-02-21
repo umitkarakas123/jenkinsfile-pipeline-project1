@@ -1,1 +1,1 @@
-print("sadsa")
+print("sadsa olcakdimi")
